@@ -1,1 +1,1 @@
-# Tereated-Water-Storage-Tank
+# Treated-Water-Storage-Tank
